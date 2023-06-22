@@ -1,0 +1,8 @@
+D:\Users\eduardo.lsilva43\source\repos\Aula07Atividades\Aula07Atividades\bin\Debug\Aula07Atividades.exe.config
+D:\Users\eduardo.lsilva43\source\repos\Aula07Atividades\Aula07Atividades\bin\Debug\Aula07Atividades.exe
+D:\Users\eduardo.lsilva43\source\repos\Aula07Atividades\Aula07Atividades\bin\Debug\Aula07Atividades.pdb
+D:\Users\eduardo.lsilva43\source\repos\Aula07Atividades\Aula07Atividades\obj\Debug\Aula07Atividades.csproj.AssemblyReference.cache
+D:\Users\eduardo.lsilva43\source\repos\Aula07Atividades\Aula07Atividades\obj\Debug\Aula07Atividades.csproj.SuggestedBindingRedirects.cache
+D:\Users\eduardo.lsilva43\source\repos\Aula07Atividades\Aula07Atividades\obj\Debug\Aula07Atividades.csproj.CoreCompileInputs.cache
+D:\Users\eduardo.lsilva43\source\repos\Aula07Atividades\Aula07Atividades\obj\Debug\Aula07Atividades.exe
+D:\Users\eduardo.lsilva43\source\repos\Aula07Atividades\Aula07Atividades\obj\Debug\Aula07Atividades.pdb
